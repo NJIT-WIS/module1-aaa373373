@@ -3,7 +3,7 @@ name: Test and Build Image for Docker
 on: [push]
 
 env:
-  DOCKER_REPO_NAME: aaa373373/module
+  DOCKER_REPO_NAME: aaa373373/module1
 
 jobs:
   build:
