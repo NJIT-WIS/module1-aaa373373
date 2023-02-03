@@ -13,7 +13,6 @@ This exercise aims to demonstrate the functionality of GitHub Classroom and GitH
 tests, building, and pushing a Docker image to Dockerhub. Here are the steps to complete the exercise:
 
 1. Clone the repository using the "Get Started" instructions.
-2. Create a repository on Dockerhub and update line 6 in
    the [.github/workflows/master.yml](.github/workflows/master.yml) file to match your repository name.
 3. In your project repository on GitHub, navigate to the "Settings" tab, then the "Secrets and Variables" option on the
    left menu. Add your Dockerhub username and password as repository secrets under the names DOCKER_USERNAME and
